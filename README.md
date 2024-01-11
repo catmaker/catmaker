@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 Next.js
+⚡ minimalmocha / newWorld 24-01-04 ~
 <!--
 **catmaker/catmaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
