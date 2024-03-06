@@ -3,7 +3,7 @@
 저는 Frontend 개발에 열정을 가지고 있는데, 특히 Next.js에 중점을 두고 있습니다. 
 매력에 빠져들어 23-08 이후로는 프론트 개발을 탐험하고 있어요.
 
-## GitHub 통계
+# GitHub 통계
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=catmaker&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catmaker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
