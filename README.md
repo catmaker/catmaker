@@ -1,12 +1,9 @@
 ### 안녕하세요! 👋
 
-저는 Frontend 개발에 열정을 가지고 있는데, 특히 Next.js에 중점을 두고 있습니다. 💻 minimalmocha의 매력에 빠져들어 24-01-04 이후로는 newWorld의 여정을 탐험하고 있어요.
+저는 Frontend 개발에 열정을 가지고 있는데, 특히 Next.js에 중점을 두고 있습니다. 매력에 빠져들어 23-08 이후로는 프론트 개발을 탐험하고 있어요.
 
 #### GitHub 통계
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=catmaker&show_icons=true&theme=radical)
-
-#### 주요 언어
-[![주요 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=catmaker)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Frontend
 ![Frontend Project 1](https://camo.githubusercontent.com/d7e7822f5ed9ac64d39291fd780e493e375d76aa3660993e3e7c24643d4da19a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d7768697465) ![Frontend Project 2](https://camo.githubusercontent.com/c51ab935c1644460c2b9818663ea32f718f71470bfbce242a9bad43c8134c610/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d666666) ![Frontend Project 3](https://camo.githubusercontent.com/dd75a07163ca58e9fed45bcf213b9ff7a9095a2aaec1c10e921a4ca452836201/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970657363726970742d3331373843363f7374796c653d666c61742d737175617265266c6f676f3d54797065536372697074266c6f676f436f6c6f723d666666) ![Frontend Project 4](https://camo.githubusercontent.com/a6bff3d2023597eec8e8adaedde833ef8dcdab1c9477ef8b5c0fcb3c9465acac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c61742d737175617265266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465)
