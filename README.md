@@ -5,9 +5,6 @@
 #### GitHub 통계
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=catmaker&show_icons=true&theme=radical)
 
-#### 주요 언어
-[![주요 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=catmaker)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Frontend
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
