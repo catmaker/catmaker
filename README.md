@@ -5,8 +5,11 @@
 #### GitHub 통계
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=catmaker&show_icons=true&theme=radical)
 
+#### 주요 언어
+[![주요 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=catmaker)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Frontend
-- ![CSS3]([https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white](https://camo.githubusercontent.com/d7e7822f5ed9ac64d39291fd780e493e375d76aa3660993e3e7c24643d4da19a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d7768697465))
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -33,3 +36,4 @@
 - [![Tool 2](https://camo.githubusercontent.com/28d1c8fc7fc4a61284c61102c39455cef0d4eb03ca0d68e83548ed47bed51875/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d3030303f7374796c653d666c6174266c6f676f3d476974266c6f676f436f6c6f723d)](https://github.com/catmaker/tool-2)
 
 프론트 개발자로서의 즐거운 여정을 함께해요! 😄
+
