@@ -1,7 +1,6 @@
 ## 안녕하세요! 👋
 
-저는 Frontend 개발에 열정을 가지고 있는데, 특히 Next.js에 중점을 두고 있습니다. 
-매력에 빠져들어 23-08 이후로는 프론트 개발에 집중하고 있어요.
+I'm passionate about frontend development, with a particular focus on Next.js.
 
 # GitHub 통계
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=catmaker&show_icons=true&theme=radical)
